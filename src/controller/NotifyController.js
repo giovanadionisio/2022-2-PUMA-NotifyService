@@ -1,1 +1,2 @@
-import Notify from "../models/Notify";
+/* eslint-disable no-unused-vars */
+import Notify from '../models/Notify';
